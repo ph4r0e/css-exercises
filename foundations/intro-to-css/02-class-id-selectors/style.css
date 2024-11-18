@@ -1,0 +1,29 @@
+.odd {
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+    color: rgb(255, 192, 203);
+}
+
+.odd,
+.small {
+    font-size: 16px;
+}
+
+#title {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.big {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#title.medium {
+    font-weight: bold;
+    background-color: rgb(144, 238, 144);
+}
+
+
