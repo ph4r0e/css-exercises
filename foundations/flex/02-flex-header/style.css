@@ -35,3 +35,14 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+.container{
+  font-family: monospace;
+  background: orange;
+  display: flex;
+  padding: 0px 20px; /* Aggiungi padding ai lati */
+  margin: 0px; /* Assicurati che non ci siano margini */
+  align-items: center;
+  min-width: 400px;
+  height: 100%;
+}
